@@ -1,4 +1,17 @@
-### Hi there 👋
+# ¡ Hola !
+
+The name's Andrea but call me Andie 
+
+**Things I Love** 
+
+- 🐶  My pups Viggo and Laszlo
+- 🔪  Scary Movies
+- 📖  Spanish Poetry 
+
+**Learn More**
+- https://andieperez.dev/
+- https://www.linkedin.com/in/dieperez-se/
+
 
 <!--
 **die-perez/die-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
