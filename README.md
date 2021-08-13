@@ -7,7 +7,7 @@ The name's Andrea but call me Andie
 - 🐶  My pups Viggo and Laszlo
 - 🔪  Scary Movies
 - 📖  Spanish Poetry 
-- 🎶  Cold wave, Dark wave & Post-punk
+- 🎶  Cold wave, Dark wave, Post-punk & Doom Metal
 
 **Learn More**
 - https://andieperez.dev/
